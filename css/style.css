@@ -1,0 +1,20 @@
+h1 {
+    color: blueviolet;
+    font-family: cursive;
+}
+
+.encabezados {
+    color:aqua;
+    font-size: 23px;
+}
+
+#copete {
+    color: fuchsia;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ol {
+    color:grey;
+    font-style: italic;
+    font-stretch: extra-condensed  ;
+}
